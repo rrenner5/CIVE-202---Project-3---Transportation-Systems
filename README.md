@@ -10,15 +10,15 @@ To use this Python tool, open the ipynb file and follow the directions imbedded 
 
   This repository includes the following files:
   
-  [NGSIM Data](CIVE202_Spring2026_Group3_Project2_NDOTMixDesign.xlsx)
+  [NGSIM Data](NGSIM.xlsx)
   
-  [NHTS Data](CIVE202_Spring2026_Group3_Project2_ConcreteMixDesign.ipynb)
+  [NHTS Data](NHTS.xlsx)
 
-  [Python Code](CIVE202_Spring2026_Group3_Project2_GanttChart.xlsx)
+  [Python Code](CIVE202_Spring2026_P3G10_Project3_Code.ipynb)
 
-  [Gantt Chart](CIVE202_Spring2026_Group3_Project2_GanttChart.xlsx)
+  [Gantt Chart](CIVE202_Spring2026_P3G10_Project3_GanttChart.xlsx)
   
-  [Scope of Work](CIVE202_Spring2026_Group3_Project2_ScopeOfWork.docx)
+  [Scope of Work](CIVE202_Spring2026_P3G10_Project3_SOW.docx)
   
   [Annotated Code Document](CIVE202_Spring2026_Group3_Project2_ACD.docx)
   
