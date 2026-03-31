@@ -20,9 +20,9 @@ To use this Python tool, open the ipynb file and follow the directions imbedded 
   
   [Scope of Work](CIVE202_Spring2026_P3G10_Project3_SOW.docx)
   
-  [Annotated Code Document](CIVE202_Spring2026_Group3_Project2_ACD.docx)
+  [Annotated Code Document](CIVE202_Spring2026_P3G10_Project3_AnnotatedCodeDocument.docx)
   
-  [Summary Report](CIVE202_Spring2026_Group3_Project2_WrittenReport.docx)
+  [Summary Report](CIVE202_Spring2026_ P3G10_Project3_Report.docx)
   
-  [Engineering Timesheet](CIVE202_Spring2026_Group3_Project2_WrittenReport.docx)
+  [Engineering Timesheet](CIVE202_Spring2026_P3G10_Project3_TimeSheet.docx)
 
